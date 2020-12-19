@@ -1,5 +1,9 @@
-# Version Control - LAB 2
-### Tasks
+# Version Control - LABs
+## Lab 1
+[link to lab-1](https://github.com/MahaAmin/ITI-CPD-41)
+
+## Lab2
+### Presentation
 1. Centralized workflow
 2. Feature branch workflow
 3. Git workflow
